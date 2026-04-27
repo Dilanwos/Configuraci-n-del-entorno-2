@@ -1,8 +1,8 @@
 # Clase 1 
 
-Etapa de desarrollo
-Etapa de testeo
-Etapa
+- Etapa de desarrollo
+- Etapa de testeo
+
 
 ## Matriz Estructural del modulo:
 - Requerimientos y configuracion.
